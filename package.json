@@ -73,6 +73,7 @@
     "uglifyjs-webpack-plugin": "^1.2.7",
     "webpack": "^3.12.0",
     "webpack-dev-server": "^2.6.1",
+    "webpack-notifier": "^1.6.0",
     "browser-sync": "^2.26.4",
     "browser-sync-webpack-plugin": "^2.2.2",
     "yaml-cli": "^1.1.8",
